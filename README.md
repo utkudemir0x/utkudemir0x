@@ -84,5 +84,5 @@
 ---
 
 <h3 align="center">
-"Learn • Build • Secure • Improve 🚀"
+
 </h3>
