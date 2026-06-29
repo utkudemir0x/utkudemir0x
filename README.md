@@ -13,7 +13,7 @@
 <h2>🚀 About Me</h2>
 
 <p>
-🔐 Improving myself in Cyber Security.<br>
+🔐 I am working in the field of cybersecurity.<br>
 🐍 Building automation and security tools with Python.<br>
 🐧 Working with Linux systems and network technologies.<br>
 ⚡ Developing Arduino and embedded system projects.<br>
@@ -66,7 +66,6 @@
 🌐 TCP/IP, Routing & Switching<br>
 🔎 Vulnerability Assessment<br>
 ⚙️ Security Automation with Python<br>
-🧪 CTF, Labs & Practical Learning<br>
 </p>
 
 ---
