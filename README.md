@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm utkudemir</h1>
 
 <h3 align="center">
-💻 Software Developer | 🔐 Cyber Security  | 🐍 Python Developer
+💻 Software Developer | 🔐 Cyber Security   | 🐍 Python Developer
 </h3>
 
 <p align="center">
