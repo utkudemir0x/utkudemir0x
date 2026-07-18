@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm utkudemir</h1>
 
 <h3 align="center">
-💻 Software Developer | 🔐 Cyber Security   | 🐍 Python Developer
+💻 Software Developer | 🔐 Cyber Security | 🐍 Python Developer
 </h3>
 
 <p align="center">
@@ -30,8 +30,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 </a>
 
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<a href="https://en.cppreference.com/w/c" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
